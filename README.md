@@ -1,3 +1,10 @@
-## Proyecto del taller practico de Git y GitHub
+## ***Proyecto del taller practico de Git y GitHub***
 
-Este proyecto esta realizado dentro del taller practico de la comunidad de Paradigma Indie 
+### *Este proyecto esta realizado dentro del taller practico de la comunidad de Paradigma Indie*
+
+#### *Contenido*
++ *Indice*
++ *Acerca de*
++ *Servicios*
++ *Galeria*
++ *Contacto*
