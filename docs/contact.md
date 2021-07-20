@@ -3,7 +3,8 @@
 ### [*Mis proyectos*](./gallery.md)<br/>
 ### [*Te ofrezco*](./services.md)<br/>
 ### [*Contáctame*](./contact.md)<br/>
-</br>
+
+<br/>
 
 # **¿Necesitas ayuda para la decoracion de tu hogar u oficina?**
 

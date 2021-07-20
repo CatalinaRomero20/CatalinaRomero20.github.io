@@ -3,12 +3,12 @@
 ### [*Mis proyectos*](./gallery.md)<br/>
 ### [*Te ofrezco*](./services.md)<br/>
 ### [*Contáctame*](./contact.md)<br/>
-</br>
+<br/>
 
 # **Estos son algunos de los proyectos destacados**
 
 ## **Abstractos  🖌**
-</br>
+<br/>
 
 <img src="../docs/assets/images/abstract.jpg"
     widht="220" height="220"
@@ -19,11 +19,11 @@
 <img src="../docs/assets/images/spiderweb.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">  
-</br>
-</br>
+<br/>
+<br/>
 
 ## **Figuras en yeso y ceramicas🖌**
-</br>
+<br/>
 <img src="../docs/assets/images/cat.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
@@ -48,22 +48,22 @@
 <img src="../docs/assets/images/clock.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-</br>
-</br>
+<br/>
+<br/>
 
 ## **Lienzos🖌**
-</br>
+<br/>
 <img src="../docs/assets/images/dream.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
 <img src="../docs/assets/images/dreamcatcher.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-</br>
-</br>
+<br/>
+<br/>
 
 ## **Paredes 🖌**
-</br>
+<br/>
 <img src="../docs/assets/images/wall.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">

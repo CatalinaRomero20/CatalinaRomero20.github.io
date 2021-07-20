@@ -3,7 +3,6 @@
 ### [*Mis proyectos*](./gallery.md)<br/>
 ### [*Te ofrezco*](./services.md)<br/>
 ### [*Contáctame*](./contact.md)<br/>
-</br>
 
 # **¿Quién Soy?**
 
