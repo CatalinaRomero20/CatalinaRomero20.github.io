@@ -1,22 +1,22 @@
 ## ***Menú***
-
-### [*¿Conoceme?*](./About.md)<br/>
-### [*Mis proyectos*](./About.md)<br/>
-### [*Te ofrezco*](./Services.md)<br/>
-### [*Contáctame*](./Contact.md)<br/>
+### [*¿Conóceme?*](./about.md)<br/>
+### [*Mis proyectos*](./gallery.md)<br/>
+### [*Te ofrezco*](./services.md)<br/>
+### [*Contáctame*](./contact.md)<br/>
 </br>
 
 # **Estos son algunos de los proyectos destacados**
 
 ## **Abstractos  🖌**
 </br>
-<img src="../Assets/Images/abstract.jpg"
+
+<img src="../docs/assets/images/abstract.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/abstract1.jpg"
+<img src="../docs/assets/images/abstract1.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/spiderweb.jpg"
+<img src="../docs/assets/images/spiderweb.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">  
 </br>
@@ -24,28 +24,28 @@
 
 ## **Figuras en yeso y ceramicas🖌**
 </br>
-<img src="../Assets/Images/cat.jpg"
+<img src="../docs/assets/images/cat.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/flower.jpg"
+<img src="../docs/assets/images/flower.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/roses.jpg"
+<img src="../docs/assets/images/roses.jpg"
+    widht="220" height="220"
+    style="bo rder: black 5px solid;">
+<img src="../docs/assets/images/sunflower.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/sunflower.jpg"
+<img src="../docs/assets/images/grud.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/grud.jpg"
+<img src="../docs/assets/images/owl.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/owl.jpg"
+<img src="../docs/assets/images/profile owl.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/profile owl.jpg"
-    widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../Assets/Images/clock.jpg"
+<img src="../docs/assets/images/clock.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
 </br>
@@ -53,10 +53,10 @@
 
 ## **Lienzos🖌**
 </br>
-<img src="../Assets/Images/dream.jpg"
+<img src="../docs/assets/images/dream.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/dreamcatcher.jpg"
+<img src="../docs/assets/images/dreamcatcher.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
 </br>
@@ -64,12 +64,12 @@
 
 ## **Paredes 🖌**
 </br>
-<img src="../Assets/Images/wall.jpg"
+<img src="../docs/assets/images/wall.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/tree wall.jpg"
+<img src="../docs/assets/images/tree wall.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">
-<img src="../Assets/Images/sunflower wall.jpg"
+<img src="../docs/assets/images/sunflower wall.jpg"
     widht="220" height="220"
     style="border: black 5px solid;">

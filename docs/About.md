@@ -1,12 +1,11 @@
 ## ***Menú***
-
-### [*¿Conoceme?*](./About.md)<br/>
-### [*Mis proyectos*](./About.md)<br/>
-### [*Te ofrezco*](./Services.md)<br/>
-### [*Contáctame*](./Contact.md)<br/>
+### [*¿Conóceme?*](./about.md)<br/>
+### [*Mis proyectos*](./gallery.md)<br/>
+### [*Te ofrezco*](./services.md)<br/>
+### [*Contáctame*](./contact.md)<br/>
 </br>
 
-# **Quien Soy**
+# **¿Quién Soy?**
 
 ### ¿Estas cansado de ver esas paredes blancas por donde caminas? ¿Cansado de ver muebles vacios sin decoración?
 </br>

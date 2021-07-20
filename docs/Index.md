@@ -2,11 +2,11 @@
 font-size:xx-large; ">   
 <strong>World´s color</strong>
 
-<img src="../Assets/Images/profile (2).jpg"
+<img src="../docs/assets/images/profile.jpg"
     widht="350" height="350"
     style="border: silver 5px solid; 
     float:right; 
-    border-radius:200%"
+    border-radius:200%">
 
 </br>
 </br>
@@ -16,10 +16,10 @@ font-size:xx-large; ">
 
 # ***Menú***
 
-## [*¿Conoceme?*](./About.md)<br/>
-## [*Mis proyectos*](./About.md)<br/>
-## [*Te ofrezco*](./Services.md)<br/>
-## [*Contáctame*](./Contact.md)<br/>
+## [*¿Conoceme?*](./about.md)<br/>
+## [*Mis proyectos*](./gallery.md)<br/>
+## [*Te ofrezco*](./services.md)<br/>
+## [*Contáctame*](./contact.md)<br/>
 </br>
 </br>
 </br>
