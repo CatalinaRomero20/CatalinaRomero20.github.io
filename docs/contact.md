@@ -1,10 +1,16 @@
-## ***Menú***
-### [*¿Conóceme?*](./about.md)<br/>
-### [*Mis proyectos*](./gallery.md)<br/>
-### [*Te ofrezco*](./services.md)<br/>
-### [*Contáctame*](./contact.md)<br/>
+<a href="/" style="background:#00d69f;
+border-radius: 5px;border:none;outline:none;
+padding: 8px 10px;color: black;">
+      Volver a inicio
+</a>
 
-<br/>
+## ***Menú***
+### [*¿Conóceme?*](./about.md)
+### [*Mis proyectos*](./gallery.md)
+### [*Te ofrezco*](./services.md)
+### [*Contáctame*](./contact.md)
+
+
 
 # **¿Necesitas ayuda para la decoracion de tu hogar u oficina?**
 

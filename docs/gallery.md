@@ -1,75 +1,69 @@
-## ***Menú***
-### [*¿Conóceme?*](./about.md)<br/>
-### [*Mis proyectos*](./gallery.md)<br/>
-### [*Te ofrezco*](./services.md)<br/>
-### [*Contáctame*](./contact.md)<br/>
-<br/>
+<a href="/" style="background:#00d69f;
+border-radius: 5px;border:none;outline:none;
+padding: 8px 10px;color: black;">
+      Volver a inicio
+</a>
 
+## ***Menú***
+### [*¿Conóceme?*](./about.md)
+### [*Mis proyectos*](./gallery.md)
+### [*Te ofrezco*](./services.md)
+### [*Contáctame*](./contact.md)
 # **Estos son algunos de los proyectos destacados**
 
 ## **Abstractos  🖌**
-<br/>
 
-<img src="../docs/assets/images/abstract.jpg"
+<img src="assets/images/abstract.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/abstract1.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/abstract1.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/spiderweb.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/spiderweb.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">  
-<br/>
-<br/>
+    style="border: grey 2px solid;">  
 
-## **Figuras en yeso y ceramicas🖌**
-<br/>
-<img src="../docs/assets/images/cat.jpg"
+## **Figuras en yeso y cerámicas🖌**
+<img src="assets/images/cat.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/flower.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/flower.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/roses.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/roses.jpg"
     widht="220" height="220"
-    style="bo rder: black 5px solid;">
-<img src="../docs/assets/images/sunflower.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/sunflower.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/grud.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/grud.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/owl.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/owl.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/profile owl.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/profile owl.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/clock.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/clock.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<br/>
-<br/>
+    style="border: grey 2px solid;">
 
 ## **Lienzos🖌**
-<br/>
-<img src="../docs/assets/images/dream.jpg"
+<img src="assets/images/dream.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/dreamcatcher.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/dreamcatcher.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<br/>
-<br/>
+    style="border: grey 2px solid;">
 
 ## **Paredes 🖌**
-<br/>
-<img src="../docs/assets/images/wall.jpg"
+<img src="assets/images/wall.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/tree wall.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/tree wall.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
-<img src="../docs/assets/images/sunflower wall.jpg"
+    style="border: grey 2px solid;">
+<img src="assets/images/sunflower wall.jpg"
     widht="220" height="220"
-    style="border: black 5px solid;">
+    style="border: grey 2px solid;">

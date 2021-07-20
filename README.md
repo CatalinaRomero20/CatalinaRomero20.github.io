@@ -1,11 +1,13 @@
 # ***Proyecto del taller practico de Git y GitHub***
 
-## *Este proyecto esta realizado dentro del taller practico de la comunidad de Paradigma Indie*
-<br/>
+## *Este proyecto esta realizado dentro del taller práctico de la comunidad de Paradigma Indie*
+
 
 ## *Contenido*
 
-## [*¿Conóceme?*](./about.md)<br/>
-## [*Mis proyectos*](./gallery.md)<br/>
-## [*Te ofrezco*](./services.md)<br/>
-## [*Contáctame*](./contact.md)<br/>
+## [*¿Conóceme?*](./about.md)
+## [*Mis proyectos*](./gallery.md)
+## [*Te ofrezco*](./services.md)
+## [*Contáctame*](./contact.md)
+
+### By Catalina Romero

@@ -8,11 +8,6 @@ font-size:xx-large;">
     float:right; 
     border-radius:200%"/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # ***Menú***
 
@@ -20,13 +15,6 @@ font-size:xx-large;">
 ## [*Mis proyectos*](./gallery.md)
 ## [*Te ofrezco*](./services.md)
 ## [*Contáctame*](./contact.md)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # ***🎨 Bienvenido a un mundo lleno de color 🎨***
 
